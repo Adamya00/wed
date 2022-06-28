@@ -1,0 +1,27 @@
+[INFO] [ghostText] [2022-06-28T13:12:03.044Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2022-06-28T13:12:41.299Z] Cancelled after requestMultiline
+[INFO] [default] [2022-06-28T13:12:43.046Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:43.767Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:44.766Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 999 ms
+[INFO] [streamChoices] [2022-06-28T13:12:44.819Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5O5JErkzUeIRNkNAVXRGSC2BvNkJr}] created: [{1656421964}]
+[INFO] [default] [2022-06-28T13:12:46.611Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2022-06-28T13:12:46.895Z] Found inline suggestions locally
+[INFO] [default] [2022-06-28T13:12:48.451Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:48.626Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 174 ms
+[INFO] [streamChoices] [2022-06-28T13:12:48.629Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5O5JI8MmGjWYS25m5EVBYo0usmXNK}] created: [{1656421968}]
+[ERROR] [restraint] [2022-06-28T13:12:48.633Z] No value found for meanLogProb -- only got {"promptCharLen":1730,"promptEndPos":1666,"documentLength":1668,"delayMs":0,"promptComputeTimeMs":21,"timeSinceIssuedMs":1,"numTokens":1,"compCharLen":1,"numLines":1,"python":0}
+[ERROR] [restraint] [2022-06-28T13:12:48.635Z] No value found for meanLogProb -- only got {"promptCharLen":1730,"promptEndPos":1666,"documentLength":1668,"delayMs":0,"promptComputeTimeMs":21,"timeSinceIssuedMs":1,"numTokens":1,"compCharLen":1,"numLines":1,"confidence":null,"python":0}
+[INFO] [default] [2022-06-28T13:12:50.303Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2022-06-28T13:12:50.701Z] Found inline suggestions locally
+[INFO] [default] [2022-06-28T13:12:52.041Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:52.744Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:53.388Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:54.633Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:54.915Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 281 ms
+[INFO] [streamChoices] [2022-06-28T13:12:54.918Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5O5JPEeclpsZFKCcwAOyr30mhAISQ}] created: [{1656421975}]
+[ERROR] [restraint] [2022-06-28T13:12:54.921Z] No value found for meanLogProb -- only got {"promptCharLen":1731,"promptEndPos":1667,"documentLength":1670,"delayMs":0,"promptComputeTimeMs":5,"timeSinceIssuedMs":2,"numTokens":1,"compCharLen":2,"numLines":1,"python":0}
+[ERROR] [restraint] [2022-06-28T13:12:54.921Z] No value found for meanLogProb -- only got {"promptCharLen":1731,"promptEndPos":1667,"documentLength":1670,"delayMs":0,"promptComputeTimeMs":5,"timeSinceIssuedMs":2,"numTokens":1,"compCharLen":2,"numLines":1,"confidence":null,"python":0}
+[INFO] [default] [2022-06-28T13:12:55.582Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:56.562Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-28T13:12:56.842Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 280 ms
+[INFO] [streamChoices] [2022-06-28T13:12:56.852Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5O5JQvZuCyo5Wnr8J82U16m3ZP8su}] created: [{1656421976}]

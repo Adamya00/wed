@@ -33,3 +33,5 @@
     at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
     at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
     at processImmediate (node:internal/timers:464:21)
+[2022-06-28 13:12:47.034] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-06-28 13:12:48.227] [exthost] [info] Extension host with pid 265 exiting with code 0

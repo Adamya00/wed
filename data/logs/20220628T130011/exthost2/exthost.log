@@ -9,3 +9,6 @@
 [2022-06-28 13:07:49.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-06-28 13:07:49.842] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
 [2022-06-28 13:07:50.267] [exthost] [info] Eager extensions activated
+[2022-06-28 13:13:45.590] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-06-28 13:13:45.600] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-28 13:13:45.670] [exthost] [info] Extension host with pid 4399 exiting with code 0

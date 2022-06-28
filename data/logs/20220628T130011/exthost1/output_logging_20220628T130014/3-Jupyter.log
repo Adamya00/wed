@@ -128,3 +128,12 @@ info 13:2:19.289: Executing silently Code (idle) = import builtins\nbuiltins.pri
 info 13:2:19.305: Executing silently Code (idle) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
 info 13:2:19.311: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
 info 13:2:19.334: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:12:47.694: Shutting down notebooks for 54a798e7-b56b-497c-bb22-9a93eaeaf86e
+info 13:12:47.700: Disposing HostJupyterExecution c089ea01-1dda-4ef2-8480-6d97072e8752
+info 13:12:47.700: Disposing super HostJupyterExecution c089ea01-1dda-4ef2-8480-6d97072e8752
+info 13:12:47.720: Dispose Kernel '/home/fenics/Non-Linear Poisson Problem.ipynb' associated with '/home/fenics/Non-Linear Poisson Problem.ipynb'
+info 13:12:47.736: Cancel pending cells
+info 13:12:48.16: Disposing HostJupyterExecution c089ea01-1dda-4ef2-8480-6d97072e8752
+info 13:12:48.16: Finished disposing HostJupyterExecution  c089ea01-1dda-4ef2-8480-6d97072e8752
+info 13:12:48.88: Cleaning up server cache c089ea01-1dda-4ef2-8480-6d97072e8752
+info 13:12:48.124: Finished disposing HostJupyterExecution  c089ea01-1dda-4ef2-8480-6d97072e8752

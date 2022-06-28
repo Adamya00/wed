@@ -31,3 +31,10 @@
 [2022-06-28 13:10:08.977] [remoteagent] [info] [127.0.0.1][81149ef2][ManagementConnection] New connection established.
 [2022-06-28 13:10:10.488] [remoteagent] [info] [127.0.0.1][8e1a8d69][ExtensionHostConnection] New connection established.
 [2022-06-28 13:10:10.499] [remoteagent] [info] [127.0.0.1][8e1a8d69][ExtensionHostConnection] <7931> Launched Extension Host Process.
+[2022-06-28 13:12:48.322] [remoteagent] [info] [127.0.0.1][06fe2f25][ExtensionHostConnection] <265> Extension Host Process exited with code: 0, signal: null.
+[2022-06-28 13:13:45.724] [remoteagent] [info] [127.0.0.1][723fc595][ExtensionHostConnection] <4399> Extension Host Process exited with code: 0, signal: null.
+[2022-06-28 13:14:07.395] [remoteagent] [info] [127.0.0.1][5a886229][ExtensionHostConnection] <5468> Extension Host Process exited with code: 0, signal: null.
+[2022-06-28 13:14:49.055] [remoteagent] [info] [127.0.0.1][e06bab67][ExtensionHostConnection] <6056> Extension Host Process exited with code: 0, signal: null.
+[2022-06-28 13:15:09.809] [remoteagent] [info] [127.0.0.1][4f0664f7][ExtensionHostConnection] <7145> Extension Host Process exited with code: 0, signal: null.
+[2022-06-28 13:15:39.825] [remoteagent] [info] [127.0.0.1][8e1a8d69][ExtensionHostConnection] <7931> Starting WebSocket: RAW/api/kernels/916de3a5-edbd-46f9-96f9-8f86e3f17523
+

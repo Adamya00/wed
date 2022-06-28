@@ -20,3 +20,118 @@ info 13:10:34.278: Find preferred kernel for /home/fenics/Non-Linear Poisson Pro
 info 13:10:34.281: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
 info 13:10:34.281: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
 info 13:10:35.209: Registering dummy command feature
+error 13:12:2.397: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+error 13:12:3.873: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+error 13:12:40.896: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+error 13:12:46.326: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+error 13:12:46.979: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+error 13:12:51.739: Live Notebook not available for /home/fenics/Non-Linear Poisson Problem.ipynb
+info 13:15:36.899: Execute Cell 2 /home/fenics/Non-Linear Poisson Problem.ipynb
+info 13:15:36.917: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher' (Python Path: , EnvType: Global, EnvName: '', Version: 3.9.7) for '/home/fenics/Non-Linear Poisson Problem.ipynb' (disableUI=false)
+info 13:15:36.932: Creating raw notebook for resource '/home/fenics/Non-Linear Poisson Problem.ipynb'
+info 13:15:36.932: Computing working directory for resource '/home/fenics/Non-Linear Poisson Problem.ipynb'
+info 13:15:37.277: Starting raw kernel 'Python 3.9.7 64-bit' for interpreter /bin/python3
+info 13:15:37.347: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 13:15:37.573: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 13:15:37.604: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b48cd13e-cd8e-449f-a173-ba6dbfa57b2f" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-7931yvWgRxbPIhYM.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b48cd13e-cd8e-449f-a173-ba6dbfa57b2f" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-7931yvWgRxbPIhYM.json
+info 13:15:37.604: Process Execution: cwd: ~
+cwd: ~
+info 13:15:39.514: ipykernel version 5.4.3 for /bin/python3
+info 13:15:39.515: ipykernel location /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+warn 13:15:39.562: StdErr from Kernel Process /usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b48cd13e-cd8e-449f-a173-ba6dbfa57b2f' instead of 'b"b48cd13e-cd8e-449f-a173-ba6dbfa57b2f"'.
+  warn(
+
+info 13:15:39.636: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-7931yvWgRxbPIhYM.json
+
+info 13:15:39.905: Started kernel Python 3.9.7 64-bit, (Raw session started and connected)
+info 13:15:39.912: Finished connecting 14d659be-6073-4069-b17e-585f0800b468
+info 13:15:40.58: UpdateWorkingDirectoryAndPath in Kernel
+info 13:15:40.61: Executing silently Code (idle) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 13:15:40.112: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 13:15:40.113: Waiting for idle on (kernel): 916de3a5-edbd-46f9-96f9-8f86e3f17523 -> idle
+info 13:15:40.113: Finished waiting for idle on (kernel): 916de3a5-edbd-46f9-96f9-8f86e3f17523 -> idle
+warn 13:15:42.192: StdErr from Kernel Process 2022-06-28 13:15:42.191 (   0.316s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 0: r (abs) = 23.4634 (tol = 1e-10) r (rel) = inf(tol = 1e-06)
+
+warn 13:15:42.193: StdErr from Kernel Process 2022-06-28 13:15:42.193 (   0.318s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.217: StdErr from Kernel Process 2022-06-28 13:15:42.216 (   0.341s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 1: r (abs) = 26.9021 (tol = 1e-10) r (rel) = 1.2529(tol = 1e-06)
+
+warn 13:15:42.217: StdErr from Kernel Process 2022-06-28 13:15:42.217 (   0.342s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.219: StdErr from Kernel Process 2022-06-28 13:15:42.219 (   0.344s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 2: r (abs) = 72.2785 (tol = 1e-10) r (rel) = 3.36619(tol = 1e-06)
+
+warn 13:15:42.220: StdErr from Kernel Process 2022-06-28 13:15:42.220 (   0.345s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.224: StdErr from Kernel Process 2022-06-28 13:15:42.223 (   0.349s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 3: r (abs) = 25.9691 (tol = 1e-10) r (rel) = 1.20945(tol = 1e-06)
+
+warn 13:15:42.225: StdErr from Kernel Process 2022-06-28 13:15:42.224 (   0.349s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.227: StdErr from Kernel Process 2022-06-28 13:15:42.226 (   0.352s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 4: r (abs) = 8.4576 (tol = 1e-10) r (rel) = 0.393892(tol = 1e-06)
+
+warn 13:15:42.227: StdErr from Kernel Process 2022-06-28 13:15:42.227 (   0.352s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.229: StdErr from Kernel Process 2022-06-28 13:15:42.229 (   0.354s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 5: r (abs) = 2.03334 (tol = 1e-10) r (rel) = 0.0946977(tol = 1e-06)
+
+warn 13:15:42.230: StdErr from Kernel Process 2022-06-28 13:15:42.229 (   0.355s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.232: StdErr from Kernel Process 2022-06-28 13:15:42.232 (   0.357s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 6: r (abs) = 0.409788 (tol = 1e-10) r (rel) = 0.0190849(tol = 1e-06)
+
+warn 13:15:42.232: StdErr from Kernel Process 2022-06-28 13:15:42.232 (   0.357s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.235: StdErr from Kernel Process 2022-06-28 13:15:42.234 (   0.360s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 7: r (abs) = 0.0855128 (tol = 1e-10) r (rel) = 0.00398255(tol = 1e-06)
+
+warn 13:15:42.235: StdErr from Kernel Process 2022-06-28 13:15:42.235 (   0.360s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.238: StdErr from Kernel Process 2022-06-28 13:15:42.238 (   0.363s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 8: r (abs) = 0.0183033 (tol = 1e-10) r (rel) = 0.000852432(tol = 1e-06)
+
+warn 13:15:42.239: StdErr from Kernel Process 2022-06-28 13:15:42.238 (   0.364s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.242: StdErr from Kernel Process 2022-06-28 13:15:42.242 (   0.367s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 9: r (abs) = 0.0039588 (tol = 1e-10) r (rel) = 0.000184371(tol = 1e-06)
+
+warn 13:15:42.242: StdErr from Kernel Process 2022-06-28 13:15:42.242 (   0.367s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.245: StdErr from Kernel Process 2022-06-28 13:15:42.244 (   0.370s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 10: r (abs) = 0.000859871 (tol = 1e-10) r (rel) = 4.00464e-05(tol = 1e-06)
+
+warn 13:15:42.245: StdErr from Kernel Process 2022-06-28 13:15:42.245 (   0.370s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.247: StdErr from Kernel Process 2022-06-28 13:15:42.247 (   0.372s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 11: r (abs) = 0.0001871 (tol = 1e-10) r (rel) = 8.71374e-06(tol = 1e-06)
+
+warn 13:15:42.248: StdErr from Kernel Process 2022-06-28 13:15:42.248 (   0.373s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.250: StdErr from Kernel Process 2022-06-28 13:15:42.250 (   0.375s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 12: r (abs) = 4.07449e-05 (tol = 1e-10) r (rel) = 1.89759e-06(tol = 1e-06)
+
+warn 13:15:42.250: StdErr from Kernel Process 2022-06-28 13:15:42.250 (   0.376s) [main            ]              petsc.cpp:776   INFO| PETSc Krylov solver starting to solve system.
+
+warn 13:15:42.253: StdErr from Kernel Process 2022-06-28 13:15:42.253 (   0.378s) [main            ]       NewtonSolver.cpp:34    INFO| Newton iteration 13: r (abs) = 8.87711e-06 (tol = 1e-10) r (rel) = 4.1343e-07(tol = 1e-06)
+2022-06-28 13:15:42.253 (   0.378s) [main            ]       NewtonSolver.cpp:250   INFO| Newton solver finished in 13 iterations and 13 linear solver iterations.
+
+info 13:15:42.280: Cell 2 executed with state Success
+info 13:19:7.165: Loading webview. View is notset
+info 13:19:7.169: Loading web view...
+info 13:19:7.172: Webview panel created.
+info 13:19:7.768: Web view react rendered
+info 13:19:7.914: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 13:19:7.917: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 13:19:7.963: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 13:19:7.965: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:19:8.17: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 13:19:8.18: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:19:8.55: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:19:8.91: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:19:8.128: Executing silently Code (idle) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:19:8.151: Executing silently Code (idle) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:19:8.157: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:19:8.202: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))

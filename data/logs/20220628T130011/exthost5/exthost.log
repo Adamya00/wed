@@ -18,3 +18,18 @@
 [2022-06-28 13:09:51.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-06-28 13:09:51.676] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
 [2022-06-28 13:09:52.014] [exthost] [info] Eager extensions activated
+[2022-06-28 13:15:09.290] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-06-28 13:15:09.308] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-28 13:15:09.432] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at Object.L [as canceled] (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+    at /home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:86:9091
+    at Array.forEach (<anonymous>)
+    at s.dispose (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:86:9039)
+    at g.terminate (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:88:10990)
+    at g.terminate (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at a (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:102:36855)
+    at k.runner (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:102:33399)
+    at k.onInterval (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:61:40661)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) 
+[2022-06-28 13:15:09.521] [exthost] [info] Extension host with pid 7145 exiting with code 0
