@@ -1,0 +1,33 @@
+[2022-06-28 13:00:11.176] [remoteagent] [info] Extension host agent started.
+[2022-06-28 13:00:11.846] [remoteagent] [info] [127.0.0.1][f1d4e723][ManagementConnection] New connection established.
+[2022-06-28 13:00:11.861] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-06-28 13:00:12.685] [remoteagent] [info] [127.0.0.1][06fe2f25][ExtensionHostConnection] New connection established.
+[2022-06-28 13:00:12.727] [remoteagent] [info] [127.0.0.1][06fe2f25][ExtensionHostConnection] <265> Launched Extension Host Process.
+[2022-06-28 13:00:59.079] [remoteagent] [info] [127.0.0.1][06fe2f25][ExtensionHostConnection] <265> Starting WebSocket: RAW/api/kernels/6678687b-2999-459b-8324-2d9cd35a6714
+
+[2022-06-28 13:00:59.144] [remoteagent] [info] [127.0.0.1][06fe2f25][ExtensionHostConnection] <265> Kernel: starting (6678687b-2999-459b-8324-2d9cd35a6714)
+
+[2022-06-28 13:05:53.061] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:55950
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-06-28 13:05:53.125] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:55950
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-06-28 13:07:39.693] [remoteagent] [info] [127.0.0.1][f1d4e723][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-28 13:07:46.671] [remoteagent] [info] [127.0.0.1][357fbdaa][ManagementConnection] New connection established.
+[2022-06-28 13:07:48.301] [remoteagent] [info] [127.0.0.1][723fc595][ExtensionHostConnection] New connection established.
+[2022-06-28 13:07:48.325] [remoteagent] [info] [127.0.0.1][723fc595][ExtensionHostConnection] <4399> Launched Extension Host Process.
+[2022-06-28 13:08:23.341] [remoteagent] [info] [127.0.0.1][357fbdaa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-28 13:08:45.251] [remoteagent] [info] [127.0.0.1][8fabeaa0][ManagementConnection] New connection established.
+[2022-06-28 13:08:46.691] [remoteagent] [info] [127.0.0.1][5a886229][ExtensionHostConnection] New connection established.
+[2022-06-28 13:08:46.702] [remoteagent] [info] [127.0.0.1][5a886229][ExtensionHostConnection] <5468> Launched Extension Host Process.
+[2022-06-28 13:08:49.372] [remoteagent] [info] [127.0.0.1][8fabeaa0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-28 13:09:06.970] [remoteagent] [info] [127.0.0.1][0e623637][ManagementConnection] New connection established.
+[2022-06-28 13:09:08.568] [remoteagent] [info] [127.0.0.1][e06bab67][ExtensionHostConnection] New connection established.
+[2022-06-28 13:09:08.577] [remoteagent] [info] [127.0.0.1][e06bab67][ExtensionHostConnection] <6056> Launched Extension Host Process.
+[2022-06-28 13:09:21.616] [remoteagent] [info] [127.0.0.1][0e623637][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-28 13:09:48.542] [remoteagent] [info] [127.0.0.1][8c35ac71][ManagementConnection] New connection established.
+[2022-06-28 13:09:50.142] [remoteagent] [info] [127.0.0.1][4f0664f7][ExtensionHostConnection] New connection established.
+[2022-06-28 13:09:50.151] [remoteagent] [info] [127.0.0.1][4f0664f7][ExtensionHostConnection] <7145> Launched Extension Host Process.
+[2022-06-28 13:10:02.186] [remoteagent] [info] [127.0.0.1][8c35ac71][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-28 13:10:08.977] [remoteagent] [info] [127.0.0.1][81149ef2][ManagementConnection] New connection established.
+[2022-06-28 13:10:10.488] [remoteagent] [info] [127.0.0.1][8e1a8d69][ExtensionHostConnection] New connection established.
+[2022-06-28 13:10:10.499] [remoteagent] [info] [127.0.0.1][8e1a8d69][ExtensionHostConnection] <7931> Launched Extension Host Process.

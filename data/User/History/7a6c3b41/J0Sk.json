@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 20,
+    "editor.inlineSuggest.enabled": true,
+    "jupyter.askForKernelRestart": false
+}

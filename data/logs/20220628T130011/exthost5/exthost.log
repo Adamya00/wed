@@ -1,0 +1,20 @@
+[2022-06-28 13:09:51.082] [exthost] [info] Extension host with pid 7145 started
+[2022-06-28 13:09:51.089] [exthost] [error] Error: EEXIST: file already exists, open '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9/vscode.lock'
+[2022-06-28 13:09:51.112] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-28 13:09:51.124] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9/vscode.lock': The lock does not look stale, elapsed: 765 ms, giving up.
+[2022-06-28 13:09:51.125] [exthost] [error] Error: EEXIST: file already exists, open '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-1/vscode.lock'
+[2022-06-28 13:09:51.128] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-28 13:09:51.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-28 13:09:51.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-28 13:09:51.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-28 13:09:51.246] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-1/vscode.lock': The lock does not look stale, elapsed: 619 ms, giving up.
+[2022-06-28 13:09:51.247] [exthost] [error] Error: EEXIST: file already exists, open '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-2/vscode.lock'
+[2022-06-28 13:09:51.249] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-28 13:09:51.260] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-2/vscode.lock': The lock does not look stale, elapsed: 734 ms, giving up.
+[2022-06-28 13:09:51.273] [exthost] [info] Lock '/home/fenics/.vscode-server/data/User/workspaceStorage/6b472f4646123ad3aa80ebb9962467c9-3/vscode.lock': Lock acquired.
+[2022-06-28 13:09:51.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-28 13:09:51.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-28 13:09:51.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:09:51.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:09:51.676] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:09:52.014] [exthost] [info] Eager extensions activated

@@ -1,0 +1,35 @@
+[2022-06-28 13:00:14.109] [exthost] [info] Extension host with pid 265 started
+[2022-06-28 13:00:14.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-28 13:00:14.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-28 13:00:14.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-28 13:00:14.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-28 13:00:14.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-28 13:00:14.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:00:14.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:00:14.812] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-28 13:00:15.244] [exthost] [info] Eager extensions activated
+[2022-06-28 13:00:45.459] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+[2022-06-28 13:00:46.917] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2022-06-28 13:00:46.941] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-28 13:00:49.363] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-28 13:00:50.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-28 13:00:50.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-28 13:00:50.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-28 13:01:00.369] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-28 13:01:00.370] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)
+[2022-06-28 13:01:04.970] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-28 13:01:04.970] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)
+[2022-06-28 13:01:16.970] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-28 13:01:16.970] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)

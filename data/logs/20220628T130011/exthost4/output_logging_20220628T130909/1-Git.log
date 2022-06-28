@@ -1,0 +1,13 @@
+[2022-06-28T13:09:09.787Z] Log level: Info
+[2022-06-28T13:09:09.792Z] [info] Validating found git in: git
+[2022-06-28T13:09:09.855Z] [info] Using git 2.32.0 from git
+[2022-06-28T13:09:10.315Z] > git rev-parse --show-toplevel [427ms]
+[2022-06-28T13:09:10.484Z] > git rev-parse --git-dir --git-common-dir [113ms]
+[2022-06-28T13:09:10.496Z] [info] Open repository: /home/fenics/Finite_element_tutorial
+[2022-06-28T13:09:10.594Z] > git status -z -uall [86ms]
+[2022-06-28T13:09:10.633Z] > git symbolic-ref --short HEAD [27ms]
+[2022-06-28T13:09:10.650Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+[2022-06-28T13:09:10.668Z] > git remote --verbose [3ms]
+[2022-06-28T13:09:10.669Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-06-28T13:09:10.686Z] > git config --get commit.template [5ms]
+[2022-06-28T13:09:11.072Z] > git check-ignore -v -z --stdin [3ms]
