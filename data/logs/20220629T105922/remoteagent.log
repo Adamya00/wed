@@ -1,0 +1,14 @@
+[2022-06-29 10:59:22.553] [remoteagent] [info] Extension host agent started.
+[2022-06-29 10:59:23.186] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-06-29 10:59:23.290] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] New connection established.
+[2022-06-29 10:59:24.418] [remoteagent] [info] [127.0.0.1][f976028f][ExtensionHostConnection] New connection established.
+[2022-06-29 10:59:24.429] [remoteagent] [info] [127.0.0.1][f976028f][ExtensionHostConnection] <262> Launched Extension Host Process.
+[2022-06-29 10:59:34.848] [remoteagent] [info] [127.0.0.1][f976028f][ExtensionHostConnection] <262> Starting WebSocket: RAW/api/kernels/d81959e5-6a4b-496a-8897-068b9c40a812
+
+[2022-06-29 11:07:13.804] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/server/node/server.main.js:143:7923)
+    at process.emit (node:events:390:28)
+[2022-06-29 11:07:13.807] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-06-29 11:07:17.388] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-06-29 11:07:17.390] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] The client has reconnected.
+[2022-06-29 11:07:17.880] [remoteagent] [info] [127.0.0.1][f976028f][ExtensionHostConnection] The client has reconnected.

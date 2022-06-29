@@ -1,0 +1,63 @@
+Visual Studio Code (1.68.1, attached-container, desktop)
+Jupyter Extension Version: 2022.5.1001601848.
+Python Extension Version: 2022.8.0.
+Workspace folder /home/fenics/.vscode-server
+info 10:59:28.882: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 10:59:30.572: LSP Notebooks experiment is disabled -- not in treatment group
+info 10:59:31.35: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 10:59:31.172: Loading webview. View is notset
+info 10:59:31.225: Loading web view...
+info 10:59:31.259: Webview panel created.
+info 10:59:31.476: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher' (Python Path: , EnvType: Global, EnvName: '', Version: 3.9.7) for '/home/fenics/Non-Linear Poisson Problem.ipynb' (disableUI=true)
+info 10:59:31.486: Creating raw notebook for resource '/home/fenics/Non-Linear Poisson Problem.ipynb'
+info 10:59:31.486: Computing working directory for resource '/home/fenics/Non-Linear Poisson Problem.ipynb'
+info 10:59:31.998: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
+info 10:59:31.998: Find preferred kernel for /home/fenics/Non-Linear Poisson Problem.ipynb with metadata {"kernelspec":{"display_name":"Python 3.9.7 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter /bin/python3
+info 10:59:32.28: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
+info 10:59:32.28: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 10:59:32.48: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: /home/fenics/Non-Linear Poisson Problem.ipynb
+info 10:59:32.122: Starting raw kernel 'Python 3.9.7 64-bit' for interpreter /bin/python3
+info 10:59:32.203: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 10:59:32.362: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 10:59:32.971: Web view react rendered
+info 10:59:33.176: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 10:59:33.315: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"96d00af5-621c-4823-b765-83cbcb4dc87e" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-2626SfCmoiq7Kba.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"96d00af5-621c-4823-b765-83cbcb4dc87e" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-2626SfCmoiq7Kba.json
+info 10:59:33.315: Process Execution: cwd: ~
+cwd: ~
+info 10:59:33.388: Registering dummy command feature
+info 10:59:34.273: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
+info 10:59:34.273: Find preferred kernel for /home/fenics/Non-Linear Poisson Problem.ipynb with metadata {"kernelspec":{"display_name":"Python 3.9.7 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter /bin/python3
+info 10:59:34.277: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
+info 10:59:34.277: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 10:59:34.289: Preferred Remote kernel for /home/fenics/Non-Linear Poisson Problem.ipynb is undefined
+info 10:59:34.639: ipykernel version 5.4.3 for /bin/python3
+info 10:59:34.639: ipykernel location /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+warn 10:59:34.680: StdErr from Kernel Process /usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 10:59:34.681: StdErr from Kernel Process /usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '96d00af5-621c-4823-b765-83cbcb4dc87e' instead of 'b"96d00af5-621c-4823-b765-83cbcb4dc87e"'.
+  warn(
+
+info 10:59:34.700: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-2626SfCmoiq7Kba.json
+
+info 10:59:34.883: Started kernel Python 3.9.7 64-bit, (Raw session started and connected)
+info 10:59:34.886: Finished connecting 19baaa20-d0c4-44e0-b786-c76aafa7f054
+info 10:59:35.27: UpdateWorkingDirectoryAndPath in Kernel
+info 10:59:35.29: Executing silently Code (idle) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 10:59:35.97: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 10:59:35.101: Waiting for idle on (kernel): d81959e5-6a4b-496a-8897-068b9c40a812 -> idle
+info 10:59:35.102: Finished waiting for idle on (kernel): d81959e5-6a4b-496a-8897-068b9c40a812 -> idle

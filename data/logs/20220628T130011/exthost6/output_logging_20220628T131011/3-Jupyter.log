@@ -135,3 +135,7 @@ info 13:19:8.128: Executing silently Code (idle) = import builtins\nbuiltins.pri
 info 13:19:8.151: Executing silently Code (idle) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
 info 13:19:8.157: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
 info 13:19:8.202: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:20:31.634: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:20:31.677: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 13:20:31.730: Executing silently Code (idle) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))
+info 13:20:31.792: Executing silently Code (completed) = import builtins\nbuiltins.print(_VSCODE_getVariableInfo(bound_facet))

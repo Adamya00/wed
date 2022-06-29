@@ -1,0 +1,14 @@
+[Info  - 10:59:35 AM] (489) Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 10:59:35 AM] (489) Server root directory: /home/fenics/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30/dist
+Notebook support: Legacy
+[Info  - 10:59:35 AM] (489) No configuration file found.
+[Info  - 10:59:35 AM] (489) No pyproject.toml file found.
+[Info  - 10:59:35 AM] (489) Setting pythonPath for service ".vscode-server": "/bin/python3"
+[Warn  - 10:59:35 AM] (489) stubPath /home/fenics/.vscode-server/typings is not a valid directory.
+[Info  - 10:59:35 AM] (489) Assuming Python version 3.9
+[Info  - 10:59:35 AM] (489) Assuming Python platform Linux
+[Info  - 10:59:35 AM] (489) Searching for source files
+[Info  - 10:59:37 AM] (489) Found 6080 source files
+[Info  - 10:59:37 AM] (489) Background analysis(1) root directory: /home/fenics/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30/dist
+[Info  - 10:59:37 AM] (489) Background analysis(1) started
+[Warn  - 10:59:54 AM] (489) Workspace indexing has hit its upper limit: 2000 files
