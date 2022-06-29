@@ -32,3 +32,21 @@
     at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
     at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
     at processImmediate (node:internal/timers:464:21)
+[2022-06-29 11:14:45.941] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-29 11:14:45.942] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)
+[2022-06-29 11:21:05.289] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-29 11:21:05.290] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)
+[2022-06-29 11:21:10.039] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-06-29 11:21:10.039] [exthost] [error] Error: request cancelled
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575268
+    at /home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575562
+    at Immediate.<anonymous> (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:3575927)
+    at processImmediate (node:internal/timers:464:21)
