@@ -15811,3 +15811,58 @@ and then push using the remote name
 [2022-06-28T13:19:29.667Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
 [2022-06-28T13:19:29.668Z] > git remote --verbose [2ms]
 [2022-06-28T13:19:29.687Z] > git config --get commit.template [2ms]
+[2022-06-28T13:19:30.636Z] > git add -A -- . [216ms]
+[2022-06-28T13:19:30.636Z] warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost1/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost1/output_logging_20220628T130014/3-Jupyter.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost2/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost3/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost4/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost5/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost6/exthost.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost6/output_logging_20220628T131011/1-Git.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost6/output_logging_20220628T131011/2-GitHub Copilot.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/exthost6/output_logging_20220628T131011/3-Jupyter.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in data/logs/20220628T130011/remoteagent.log.
+The file will have its original line endings in your working directory
+[2022-06-28T13:19:30.733Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [79ms]
+[2022-06-28T13:19:30.866Z] > git status -z -uall [112ms]
+[2022-06-28T13:19:30.890Z] > git symbolic-ref --short HEAD [5ms]
+[2022-06-28T13:19:30.917Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-06-28T13:19:30.956Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-06-28T13:19:30.957Z] > git remote --verbose [3ms]
+[2022-06-28T13:19:30.986Z] > git config --get commit.template [4ms]
+[2022-06-28T13:19:36.296Z] > git status -z -uall [155ms]
+[2022-06-28T13:19:36.321Z] > git symbolic-ref --short HEAD [5ms]
+[2022-06-28T13:19:36.352Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-06-28T13:19:36.394Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+[2022-06-28T13:19:36.395Z] > git remote --verbose [4ms]
+[2022-06-28T13:19:36.419Z] > git config --get commit.template [2ms]
+[2022-06-28T13:19:38.980Z] > git fetch [14ms]
+[2022-06-28T13:19:39.120Z] > git status -z -uall [116ms]
+[2022-06-28T13:19:39.144Z] > git symbolic-ref --short HEAD [6ms]
+[2022-06-28T13:19:39.169Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-06-28T13:19:39.218Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+[2022-06-28T13:19:39.221Z] > git remote --verbose [7ms]
+[2022-06-28T13:19:39.266Z] > git config --get commit.template [10ms]
+[2022-06-28T13:19:41.561Z] > git status -z -uall [116ms]
+[2022-06-28T13:19:41.583Z] > git symbolic-ref --short HEAD [3ms]
+[2022-06-28T13:19:41.609Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-06-28T13:19:41.648Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-06-28T13:19:41.649Z] > git remote --verbose [3ms]
+[2022-06-28T13:19:41.677Z] > git config --get commit.template [5ms]
+[2022-06-28T13:19:46.850Z] > git status -z -uall [139ms]
+[2022-06-28T13:19:46.880Z] > git symbolic-ref --short HEAD [7ms]
+[2022-06-28T13:19:46.912Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-06-28T13:19:46.978Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+[2022-06-28T13:19:46.981Z] > git remote --verbose [8ms]
+[2022-06-28T13:19:47.034Z] > git config --get commit.template [6ms]
