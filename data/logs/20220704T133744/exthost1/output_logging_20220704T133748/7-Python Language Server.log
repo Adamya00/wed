@@ -11,3 +11,4 @@ Notebook support: Legacy
 [Info  - 1:38:12 PM] (680) Found 6080 source files
 [Info  - 1:38:12 PM] (680) Background analysis(1) root directory: /home/fenics/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30/dist
 [Info  - 1:38:12 PM] (680) Background analysis(1) started
+[Warn  - 1:38:30 PM] (680) Workspace indexing has hit its upper limit: 2000 files
