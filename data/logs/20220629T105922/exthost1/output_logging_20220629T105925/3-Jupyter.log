@@ -61,3 +61,5 @@ info 10:59:35.29: Executing silently Code (idle) = import os\nimport sys\n%cd "/
 info 10:59:35.97: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
 info 10:59:35.101: Waiting for idle on (kernel): d81959e5-6a4b-496a-8897-068b9c40a812 -> idle
 info 10:59:35.102: Finished waiting for idle on (kernel): d81959e5-6a4b-496a-8897-068b9c40a812 -> idle
+info 11:32:55.420: Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook /home/fenics/Non-Linear Poisson Problem.ipynb due to selection of another kernel or closing of the notebook
+info 11:32:55.421: Dispose Kernel '/home/fenics/Non-Linear Poisson Problem.ipynb' associated with '/home/fenics/Non-Linear Poisson Problem.ipynb'

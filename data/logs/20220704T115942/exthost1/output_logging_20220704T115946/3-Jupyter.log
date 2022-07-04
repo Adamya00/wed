@@ -1,0 +1,229 @@
+Visual Studio Code (1.68.1, attached-container, desktop)
+Jupyter Extension Version: 2022.5.1001601848.
+Python Extension Version: 2022.8.0.
+Workspace folder /home/fenics/.vscode-server
+info 12:0:5.284: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 12:0:7.111: LSP Notebooks experiment is disabled -- not in treatment group
+error 12:0:7.736: getCondaFile, Class name = S, completed in 590ms, has a falsy return value EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat 'c:\Users\Adamya\anaconda3\Scripts\conda.exe'
+    at Function._handleError (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:83:121723)
+    at Object.stat (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:83:120091)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at m.getFileHash (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:867366)
+    at S.getCachedInformation (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:886773) {
+  code: 'FileNotFound'
+}
+error 12:0:7.743: getCondaVersion, Class name = S, completed in 596ms, has a falsy return value EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat 'c:\Users\Adamya\anaconda3\Scripts\conda.exe'
+    at Function._handleError (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:83:121723)
+    at Object.stat (/home/fenics/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/out/vs/workbench/api/node/extensionHostProcess.js:83:120091)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at m.getFileHash (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:867366)
+    at S.getCachedInformation (/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/out/extension.node.js:2:886773) {
+  code: 'FileNotFound'
+}
+info 12:0:8.44: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 12:0:10.594: Preferred Remote kernel for /home/fenics/Linear Elasticity.ipynb is undefined
+info 12:0:10.594: Find preferred kernel for /home/fenics/Linear Elasticity.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter /bin/python3
+info 12:0:10.601: Preferred Remote kernel for /home/fenics/Linear Elasticity.ipynb is undefined
+info 12:0:10.601: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:0:10.606: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: /home/fenics/Linear Elasticity.ipynb
+info 12:0:10.671: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 12:0:10.815: Preferred Remote kernel for /home/fenics/Linear Elasticity.ipynb is undefined
+info 12:0:10.816: Find preferred kernel for /home/fenics/Linear Elasticity.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter /bin/python3
+info 12:0:10.818: Preferred Remote kernel for /home/fenics/Linear Elasticity.ipynb is undefined
+info 12:0:10.818: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:0:10.824: Preferred Remote kernel for /home/fenics/Linear Elasticity.ipynb is undefined
+info 12:0:11.663: Registering dummy command feature
+info 12:0:15.338: Execute Cell 3 /home/fenics/Linear Elasticity.ipynb
+info 12:0:15.359: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher' (Python Path: , EnvType: Global, EnvName: '', Version: 3.9.7) for '/home/fenics/Linear Elasticity.ipynb' (disableUI=false)
+info 12:0:15.392: Creating raw notebook for resource '/home/fenics/Linear Elasticity.ipynb'
+info 12:0:15.392: Computing working directory for resource '/home/fenics/Linear Elasticity.ipynb'
+info 12:0:15.394: Execute Cell 4 /home/fenics/Linear Elasticity.ipynb
+info 12:0:15.394: Execute Cell 5 /home/fenics/Linear Elasticity.ipynb
+info 12:0:15.394: Execute Cell 6 /home/fenics/Linear Elasticity.ipynb
+info 12:0:15.404: Starting raw kernel 'Python 3.9.7 64-bit' for interpreter /bin/python3
+info 12:0:15.429: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 12:0:16.631: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 12:0:16.717: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"5b9bd7a2-3bde-4230-8032-0300c8203441" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-5687vU5djTjEXkI.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"5b9bd7a2-3bde-4230-8032-0300c8203441" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-5687vU5djTjEXkI.json
+info 12:0:16.717: Process Execution: cwd: ~
+cwd: ~
+info 12:0:20.877: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-5687vU5djTjEXkI.json
+
+warn 12:0:20.878: StdErr from Kernel Process /usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '5b9bd7a2-3bde-4230-8032-0300c8203441' instead of 'b"5b9bd7a2-3bde-4230-8032-0300c8203441"'.
+  warn(
+
+info 12:0:20.881: ipykernel version 5.4.3 for /bin/python3
+info 12:0:20.881: ipykernel location /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+info 12:0:21.290: Started kernel Python 3.9.7 64-bit, (Raw session started and connected)
+info 12:0:21.293: Finished connecting 907c5bf5-a4df-40db-862c-f9af1fce5c9f
+info 12:0:21.416: UpdateWorkingDirectoryAndPath in Kernel
+info 12:0:21.418: Executing silently Code (idle) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 12:0:21.496: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 12:0:21.497: Waiting for idle on (kernel): 217fbf13-67e6-463d-8a64-6c32e3a69133 -> idle
+info 12:0:21.497: Finished waiting for idle on (kernel): 217fbf13-67e6-463d-8a64-6c32e3a69133 -> idle
+info 12:0:21.698: Cell 3 executed with state Success
+info 12:0:24.767: Cell 4 executed with state Success
+info 12:0:31.865: [32mFetch Script for {"moduleName":"jupyter-threejs","moduleVersion":"^2.1.0"}
+info 12:0:31.865: [32mFetch Script for jupyter-threejs
+info 12:0:31.868: [32mSearching for Widget Script jupyter-threejs#^2.1.0 at path: file:///home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js
+info 12:0:31.947: [32mWidget Script jupyter-threejs#^2.1.0 searching
+info 12:0:32.79: Cell 5 executed with state Success
+info 12:0:32.340: [32mDownloading from CDN https://unpkg.com/jupyter-threejs@^2.1.0/dist/index into file:///home/fenics/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/tmp/undefined-78a6b645-e8c7-40a0-aeb6-55fe6a9b423a..js
+info 12:0:32.361: [32mDownloading from CDN https://cdn.jsdelivr.net/npm/jupyter-threejs@2.1.0/dist/index.js into file:///home/fenics/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/tmp/undefined-32d45247-f557-4f44-acb7-54295e88a27e..js
+info 12:0:32.473: Cell 6 executed with state Success
+info 12:0:33.250: [32mSuccessfully downloaded from CDN https://cdn.jsdelivr.net/npm/jupyter-threejs@2.1.0/dist/index.js into file:///home/fenics/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/tmp/undefined-32d45247-f557-4f44-acb7-54295e88a27e..js
+info 12:0:33.250: [32mWiget jupyter-threejs successfully downloaded to temp file file:///home/fenics/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/tmp/undefined-32d45247-f557-4f44-acb7-54295e88a27e..js
+info 12:0:33.318: [32mWiget jupyter-threejs being copied into file:///home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js
+info 12:0:33.425: [32mWiget jupyter-threejs downloaded into https://vscode-remote%2Battached-002dcontainer-002b7b22636f6e7461696e65724e616d65223a222f706561636566756c5f6261726465656e227d.vscode-resource.vscode-cdn.net/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js from cdn (file:///home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js)
+info 12:0:33.427: Script source for Widget jupyter-threejs@^2.1.0 was found from source cdn
+info 12:0:33.427: [32mScript for jupyter-threejs, is https://vscode-remote%2Battached-002dcontainer-002b7b22636f6e7461696e65724e616d65223a222f706561636566756c5f6261726465656e227d.vscode-resource.vscode-cdn.net/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js from cdn
+info 12:0:34.501: [32mSuccessfully downloaded from CDN https://unpkg.com/jupyter-threejs@^2.1.0/dist/index into file:///home/fenics/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/tmp/undefined-78a6b645-e8c7-40a0-aeb6-55fe6a9b423a..js
+info 12:0:40.993: Execute Cell 4 /home/fenics/Linear Elasticity.ipynb
+info 12:0:40.993: Execute Cell 5 /home/fenics/Linear Elasticity.ipynb
+info 12:0:40.993: Execute Cell 6 /home/fenics/Linear Elasticity.ipynb
+info 12:0:43.408: Cancel all remaining cells true || Error || undefined
+info 12:0:43.408: Cancel pending cells
+info 12:0:43.410: Cell 4 executed with state Error
+info 12:0:43.410: Cell 5 executed with state Idle
+info 12:0:43.410: Cell 6 executed with state Idle
+info 12:1:27.484: Preferred Remote kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb is undefined
+info 12:1:27.507: Preferred Remote kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb is undefined
+info 12:1:27.507: Find preferred kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter /bin/python3
+info 12:1:27.511: Preferred Remote kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb is undefined
+info 12:1:27.512: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:1:27.514: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:27.589: Preferred Remote kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb is undefined
+info 12:1:27.589: Find preferred kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter /bin/python3
+info 12:1:27.591: Preferred Remote kernel for /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb is undefined
+info 12:1:27.591: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:1:29.340: Execute Cell 0 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.354: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher' (Python Path: , EnvType: Global, EnvName: '', Version: 3.9.7) for '/home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb' (disableUI=false)
+info 12:1:29.357: Creating raw notebook for resource '/home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb'
+info 12:1:29.357: Computing working directory for resource '/home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb'
+info 12:1:29.358: Execute Cell 1 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 2 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 3 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 5 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 6 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 7 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 8 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.358: Execute Cell 9 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.359: Execute Cell 10 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.359: Execute Cell 11 /home/fenics/Weak Imposition of Dirichlet Boundary conditions.ipynb
+info 12:1:29.363: Starting raw kernel 'Python 3.9.7 64-bit' for interpreter /bin/python3
+info 12:1:29.401: Kernel launching with ports 9005,9006,9007,9008,9009. Start port is 9000
+info 12:1:29.869: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 12:1:29.986: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"dc51b118-f544-4db4-9753-445f57b38520" --shell=9007 --transport="tcp" --iopub=9009 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-568U2qvW1BoeH1H.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"dc51b118-f544-4db4-9753-445f57b38520" --shell=9007 --transport="tcp" --iopub=9009 --f=/home/fenics/.local/share/jupyter/runtime/kernel-v2-568U2qvW1BoeH1H.json
+info 12:1:29.986: Process Execution: cwd: ~
+cwd: ~
+warn 12:1:33.145: StdErr from Kernel Process /usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.9/dist-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'dc51b118-f544-4db4-9753-445f57b38520' instead of 'b"dc51b118-f544-4db4-9753-445f57b38520"'.
+  warn(
+
+info 12:1:33.146: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-568U2qvW1BoeH1H.json
+
+info 12:1:33.149: ipykernel version 5.4.3 for /bin/python3
+info 12:1:33.151: ipykernel location /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+info 12:1:33.257: Started kernel Python 3.9.7 64-bit, (Raw session started and connected)
+info 12:1:33.263: Finished connecting 907c5bf5-a4df-40db-862c-f9af1fce5c9f
+info 12:1:33.484: UpdateWorkingDirectoryAndPath in Kernel
+info 12:1:33.484: Executing silently Code (idle) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 12:1:33.516: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenics"\nif os.getcwd() not in sys.path:\nsys.path.insert(0, os.ge
+info 12:1:33.517: Waiting for idle on (kernel): 4042200b-a044-4e38-a5f5-df6a975c91c2 -> idle
+info 12:1:33.517: Finished waiting for idle on (kernel): 4042200b-a044-4e38-a5f5-df6a975c91c2 -> idle
+info 12:1:33.668: Cell 0 executed with state Success
+info 12:1:34.704: Cell 1 executed with state Success
+info 12:1:34.764: Cell 2 executed with state Success
+info 12:1:34.885: Cell 3 executed with state Success
+info 12:1:35.7: Cell 5 executed with state Success
+info 12:1:37.737: Cell 6 executed with state Success
+info 12:1:37.904: Cell 7 executed with state Success
+info 12:1:38.236: Cell 8 executed with state Success
+info 12:1:40.407: Cell 9 executed with state Success
+info 12:1:40.921: Cell 10 executed with state Success
+info 12:1:43.114: Cell 11 executed with state Success
+info 12:1:43.120: [32mFetch Script for {"moduleName":"jupyter-threejs","moduleVersion":"^2.1.0"}
+info 12:1:43.120: [32mFetch Script for jupyter-threejs
+info 12:1:43.121: [32mSearching for Widget Script jupyter-threejs#^2.1.0 at path: file:///home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js
+info 12:1:43.213: [32mWidget Script jupyter-threejs#^2.1.0 found at path: file:///home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js
+info 12:1:43.217: Script source for Widget jupyter-threejs@^2.1.0 was found from source cdn
+info 12:1:43.217: [32mScript for jupyter-threejs, is https://vscode-remote%2Battached-002dcontainer-002b7b22636f6e7461696e65724e616d65223a222f706561636566756c5f6261726465656e227d.vscode-resource.vscode-cdn.net/home/fenics/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/tmp/scripts/3ad1f1cafba3c87fa812f3bd39ec27f1c145501f7dfdb9d2886646377f486cb4/index.js from cdn
+info 12:2:8.513: Loading webview. View is notset
+info 12:2:8.515: Loading web view...
+info 12:2:8.516: Webview panel created.
+info 12:2:8.956: Web view react rendered
+info 12:2:9.135: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 12:2:9.135: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 12:2:9.175: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 12:2:9.175: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 12:2:9.212: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 12:2:9.213: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 12:2:9.236: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 12:2:9.275: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 12:2:11.990: Execute Cell 3 /home/fenics/Linear Elasticity.ipynb
+info 12:2:11.990: Execute Cell 4 /home/fenics/Linear Elasticity.ipynb
+info 12:2:11.990: Execute Cell 5 /home/fenics/Linear Elasticity.ipynb
+info 12:2:11.990: Execute Cell 6 /home/fenics/Linear Elasticity.ipynb
+info 12:2:12.81: Cell 3 executed with state Success
+info 12:2:12.337: Cell 4 executed with state Success
+info 12:2:14.192: Cell 5 executed with state Success
+info 12:2:14.464: Cell 6 executed with state Success
+info 12:2:54.985: Preferred Remote kernel for Untitled-1.ipynb is undefined
+info 12:2:55.149: Preferred Remote kernel for Untitled-1.ipynb is undefined
+info 12:2:55.149: Find preferred kernel for Untitled-1.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+info 12:2:55.152: Preferred Remote kernel for Untitled-1.ipynb is undefined
+info 12:2:55.152: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:2:55.153: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: Untitled-1.ipynb
+info 12:2:55.218: Preferred Remote kernel for Untitled-1.ipynb is undefined
+info 12:2:55.218: Find preferred kernel for Untitled-1.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+info 12:2:55.219: Preferred Remote kernel for Untitled-1.ipynb is undefined
+info 12:2:55.219: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+error 12:2:58.672: Live Notebook not available for Untitled-1.ipynb
+error 12:3:1.566: Live Notebook not available for Untitled-1.ipynb
+error 12:3:1.930: Live Notebook not available for Untitled-1.ipynb
+error 12:3:4.880: Live Notebook not available for Untitled-1.ipynb
+error 12:3:5.790: Live Notebook not available for Untitled-1.ipynb
+error 12:3:6.497: Live Notebook not available for Untitled-1.ipynb
+error 12:3:7.762: Live Notebook not available for Untitled-1.ipynb
+error 12:3:12.979: Live Notebook not available for Untitled-1.ipynb
+error 12:3:15.958: Live Notebook not available for Untitled-1.ipynb
+error 12:3:16.849: Live Notebook not available for Untitled-1.ipynb
+error 12:3:22.474: Live Notebook not available for Untitled-1.ipynb
+error 12:3:31.239: Live Notebook not available for Untitled-1.ipynb
+info 12:4:13.762: Preferred Remote kernel for /home/fenics/packagetry.ipynb is undefined
+info 12:4:13.799: Preferred Remote kernel for /home/fenics/packagetry.ipynb is undefined
+info 12:4:13.799: Find preferred kernel for /home/fenics/packagetry.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+info 12:4:13.801: Preferred Remote kernel for /home/fenics/packagetry.ipynb is undefined
+info 12:4:13.801: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match
+info 12:4:13.803: PreferredConnection: .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher found for NotebookDocument: /home/fenics/packagetry.ipynb
+info 12:4:13.837: Preferred Remote kernel for /home/fenics/packagetry.ipynb is undefined
+info 12:4:13.837: Find preferred kernel for /home/fenics/packagetry.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /bin/python3
+info 12:4:13.839: Preferred Remote kernel for /home/fenics/packagetry.ipynb is undefined
+info 12:4:13.839: Preferred kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher is exact match

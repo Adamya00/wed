@@ -1,0 +1,10 @@
+[2022-07-04 13:37:44.471] [remoteagent] [info] Extension host agent started.
+[2022-07-04 13:37:45.005] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-07-04 13:37:45.155] [remoteagent] [info] [127.0.0.1][b8d2193b][ManagementConnection] New connection established.
+[2022-07-04 13:37:46.245] [remoteagent] [info] [127.0.0.1][90baf193][ExtensionHostConnection] New connection established.
+[2022-07-04 13:37:46.347] [remoteagent] [info] [127.0.0.1][90baf193][ExtensionHostConnection] <352> Launched Extension Host Process.
+[2022-07-04 13:37:46.660] [remoteagent] [info] Deleted from disk ms-python.python /home/fenics/.vscode-server/extensions/ms-python.python-2022.8.0
+[2022-07-04 13:38:08.781] [remoteagent] [info] [127.0.0.1][90baf193][ExtensionHostConnection] <352> Starting WebSocket: RAW/api/kernels/71650aa0-7e6f-4b94-b35d-952316c24fc3
+
+[2022-07-04 13:38:10.799] [remoteagent] [info] [127.0.0.1][90baf193][ExtensionHostConnection] <352> Starting WebSocket: RAW/api/kernels/ca6c30c8-476e-4afc-b0ff-a72de2aa745d
+

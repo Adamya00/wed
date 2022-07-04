@@ -1,0 +1,17 @@
+[Info  - 1:38:01 PM] (506) Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 1:38:01 PM] (506) Server root directory: /home/fenics/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30/dist
+Notebook support: Legacy
+[Info  - 1:38:01 PM] (506) Background analysis(1) root directory: /home/fenics/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30/dist
+[Info  - 1:38:01 PM] (506) Background analysis(1) started
+[Info  - 1:38:02 PM] (506) No configuration file found.
+[Info  - 1:38:02 PM] (506) No pyproject.toml file found.
+[Info  - 1:38:02 PM] (506) Setting pythonPath for service ".vscode-server": "/bin/python3"
+[Warn  - 1:38:02 PM] (506) stubPath /home/fenics/.vscode-server/typings is not a valid directory.
+[Info  - 1:38:02 PM] (506) Assuming Python version 3.9
+[Info  - 1:38:02 PM] (506) Assuming Python platform Linux
+[Info  - 1:38:08 PM] (506) Searching for source files
+[Info  - 1:38:08 PM] (506) Found 6080 source files
+[Info  - 1:38:08 PM] (506) [BG(1)] Long operation: getSemanticTokens range 12:0 - 22:47 at /home/fenics/_NotebookConcat_839de857c2e7.py (2886ms)
+[Info  - 1:38:19 PM] (506) [BG(1)] Long operation: getSemanticTokens range 24:0 - 72:52 at /home/fenics/_NotebookConcat_839de857c2e7.py (8840ms)
+[Info  - 1:38:19 PM] (506) [BG(1)] Long operation: checking: /home/fenics/_NotebookConcat_839de857c2e7.py (2136ms)
+[Info  - 1:38:19 PM] (506) [BG(1)] Long operation: analyzing: /home/fenics/_NotebookConcat_839de857c2e7.py (2136ms)

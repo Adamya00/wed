@@ -12,3 +12,4 @@
 [2022-06-29 11:07:17.388] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
 [2022-06-29 11:07:17.390] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] The client has reconnected.
 [2022-06-29 11:07:17.880] [remoteagent] [info] [127.0.0.1][f976028f][ExtensionHostConnection] The client has reconnected.
+[2022-06-29 11:33:01.089] [remoteagent] [info] [127.0.0.1][7d5a523f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
